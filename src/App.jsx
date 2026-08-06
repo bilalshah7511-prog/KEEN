@@ -662,7 +662,7 @@ export default function App() {
             disabled={!checkoutReady || !inCart}
             onClick={finalCheckout}
           >
-            Checkout . ${inCart ? estimatedTotal.toFixed(2) : '0.00'}
+            Checkout
           </button>
         </div>
 
