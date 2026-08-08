@@ -1885,3 +1885,17 @@ button.pdp-option,
 .verify-tabs {
   border-radius: 0 !important;
 }
+
+.checkout-required {
+  color: #c0392b;
+  font-weight: 700;
+  margin-left: 2px;
+}
+
+.checkout-field-error {
+  margin: 4px 0 10px;
+  color: #c0392b;
+  font-size: 13px;
+  font-weight: 600;
+}
+
